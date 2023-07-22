@@ -1,0 +1,17 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid rgb(39, 36, 36);
+}
+.table th {
+    border: 2px solid rgb(39, 36, 36);    
+}
+.table tr, td {
+    border: 1px solid rgb(48, 46, 46);
+}
+.table td {
+    padding: 5px;
+}
+.activeRow {
+    background-color: aquamarine;
+}
